@@ -1,10 +1,22 @@
 body {
   background-color: #f0f0f0;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 h1 {
   color: blue;
   text-align: center;
   text-decoration: dashed underline;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  margin-bottom: 12px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
 }
